@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bit/backed/hash/version'
+require 'bit-backed-hash/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "bit-backed-hash"
-  spec.version       = Bit::Backed::Hash::VERSION
+  spec.version       = Bit_Backed_Hash::VERSION
   spec.authors       = ["cventeic"]
   spec.email         = ["chris.venteicher@intel.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
