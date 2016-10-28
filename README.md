@@ -7,7 +7,7 @@ TODO: Write a gem description
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bit-backed-hash'
+gem 'bit_backed_hash'
 ```
 
 And then execute:

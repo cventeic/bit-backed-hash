@@ -1,5 +1,5 @@
 require 'minitest/autorun'
-#require "bit-backed-hash/range_map"
+#require "bit_backed_hash/range_map"
 
 module Bit_Backed_Hash
 

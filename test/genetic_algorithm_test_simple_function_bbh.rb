@@ -12,7 +12,7 @@ require 'minitest/autorun'
 require 'pry'
 
 require_relative './genetic_algorithm'
-require 'bit-backed-hash'
+require 'bit_backed_hash'
 
 include Bit_Backed_Hash
 
